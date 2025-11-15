@@ -19,7 +19,8 @@ O objetivo principal foi compreender o fluxo interno do programa, calcular sua c
 
 🧩 Grafo de Fluxo
 
-![Grafo de Fluxo](https://raw.githubusercontent.com/Wellington-Henriquee/Login.UiUx/main/grafo.drawio.png)
+<img width="871" height="391" alt="grafo drawio" src="https://github.com/user-attachments/assets/a0bd53d3-a1b8-4cbc-afb0-9ba7b99a02c6" />
+
 
 
 🧮 Cálculo da Complexidade Ciclomática
@@ -58,7 +59,8 @@ M = número de decisões + 1 = 4 + 1 = 5
 
 🧭 Caminhos Básicos do Código
 Caminho	Fluxo	Descrição
-![Caminhos Básicos](https://raw.githubusercontent.com/Wellington-Henriquee/Login.UiUx/main/caminhobasico.png)
+<img width="1063" height="141" alt="Captura de tela 2025-11-15 101640" src="https://github.com/user-attachments/assets/4d794d16-d5dd-41b4-9a7d-628873d55517" />
+
 
 📈 Interpretação da Métrica
 
@@ -77,16 +79,19 @@ criação de testes mais completos e eficientes.
 
 *Usuário encontrado*
 
-![Usuário encontrado](https://raw.githubusercontent.com/Wellington-Henriquee/Login.UiUx/main/loginrealizado.png)
+<img width="328" height="64" alt="Captura de tela 2025-11-15 101903" src="https://github.com/user-attachments/assets/259ab53f-2dec-40fb-a609-de2ea07e4cca" />
+
 
 *Usuário não encontrado*
 
-![Login inválido](https://raw.githubusercontent.com/Wellington-Henriquee/Login.UiUx/main/logininvalido.png)
+<img width="262" height="62" alt="Captura de tela 2025-11-15 102125" src="https://github.com/user-attachments/assets/40419a1b-41d0-42ae-9b71-20e49a3d0df1" />
+
 
 
 *Conexão Banco De Dados*
 
-![Banco de Dados](https://raw.githubusercontent.com/Wellington-Henriquee/Login.UiUx/main/banco.png)
+
+<img width="714" height="424" alt="Captura de tela 2025-11-15 101816" src="https://github.com/user-attachments/assets/122a7760-c3d7-4c7d-8874-f7c1ee5a6a9a" />
 
 
 💡 Conclusão
